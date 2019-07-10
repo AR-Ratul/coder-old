@@ -78,6 +78,7 @@ input[type="submit"] {
 	border: 0;
 	color: #1a1126;
 	margin-left: -197px;
+	cursor: pointer;
 	}
 	section.main-box {width: 1100px;margin: auto;height: 553px;}
 	section.small-box-1 {width: 50%;float: left;}
